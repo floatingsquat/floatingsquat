@@ -25,12 +25,3 @@
 ### Currently Learning
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
 ![Next JS](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/movwf">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=floatingsquat&theme=algolia&show_icons=true&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=floatingsquat&langs_count=8&layout=compact&theme=algolia"/>
-</a>
-</p>
