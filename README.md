@@ -9,7 +9,6 @@
 
 
 
-<img alt="Night Coding" src="https://i.ibb.co/8zJYqRW/Night-Coding.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
